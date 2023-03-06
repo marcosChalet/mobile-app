@@ -3,7 +3,7 @@
 * Cícero Samuel
 * Thiago Carlos
 * Moab Esdras
-* Thiago Carlos
+* Marcos Pereira
 
 </br>
 
@@ -31,9 +31,9 @@ Aplicativo para médicos cadastrarem seus pacientes com dados básicos e fazer u
 
 ## 5 - Divisão de tarefas
 
-Cícero Samuel e Moab Esdras: Identidade Visual e  Funcionalidades de Front-end;
-Marcos Pereira: Integração Front-end/Back-End;
-Thiago Carlos e Cícero José: Funcionalidades do Back-end.
+* **Cícero Samuel e Moab Esdras**: Identidade Visual e  Funcionalidades de Front-end;
+* **Marcos Pereira**: Integração Front-end/Back-End;
+* **Thiago Carlos e Cícero José**: Funcionalidades do Back-end.
 
 </br>
 
