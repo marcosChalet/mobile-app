@@ -8,6 +8,6 @@
 
 ### ***Programação Para Dispositivos Móveis (CC0044) - Rafael Perazzo***
 > Este projeto tem como escopo exercitar, colocar em prática e demonstrar as habilidades adquiridas durante a cadeira de desenvolvimento mobile na Universidade Federal do Cariri (UFCA).
-> Ele se resume a um APP desenvolvido com React Native, Typescript e integrado com o Firebase.
+> Ele se resume a um APP desenvolvido com React Native, TypeScript e integrado com o Firebase.
 >
 > ***Clique [aqui](https://github.com/marcosChalet/SOS-feridas/blob/main/Atividade2.md) para ter acesso ao domínio do projeto***.
