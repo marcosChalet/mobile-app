@@ -110,7 +110,6 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
     top: -130,
     left: -200,
-    zIndex: 10,
   },
   form: {
     backgroundColor: '#FFF6',
