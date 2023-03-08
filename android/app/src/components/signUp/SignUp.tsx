@@ -60,6 +60,7 @@ export default function Login() {
         <View>
           <Text style={styles.titleInput}>Password</Text>
           <TextInput
+            secureTextEntry={true}
             style={styles.input}
             placeholderTextColor="#0003"
             placeholder="Type your password..."
@@ -79,7 +80,7 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: '#E5E6E6',
     position: 'relative',
-    flex: 1,
+    flex: 10,
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -96,6 +97,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-evenly',
     height: '50%',
     borderRadius: 10,
+    minHeight: 400,
   },
   titleInput: {
     color: '#2C93ED',
@@ -106,6 +108,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     paddingBottom: 3,
     borderColor: '#0066FF',
+    color: '#2C93ED',
   },
   googleTextStyle: {
     color: '#2C93ED',

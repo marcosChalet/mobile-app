@@ -67,6 +67,7 @@ export default function Login() {
         <View>
           <Text style={styles.titleInput}>Password</Text>
           <TextInput
+            secureTextEntry={true}
             style={styles.input}
             placeholderTextColor="#0004"
             placeholder="Type your password..."
@@ -128,6 +129,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     paddingBottom: 3,
     borderColor: '#0066FF',
+    color: '#2C93ED',
   },
   clearTextStyle: {
     color: '#2C93ED',
