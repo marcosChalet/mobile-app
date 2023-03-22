@@ -105,6 +105,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    minHeight: 700,
   },
   blob: {
     position: 'absolute',
